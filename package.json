@@ -1,0 +1,16 @@
+{
+  "name": "wsi-issue-45",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-preset-env": "^1.4.0",
+    "babel-register": "^6.24.1",
+    "on-build-webpack": "^0.1.0",
+    "webpack": "^2.5.1",
+    "webpack-subresource-integrity": "^1.0.0-rc.1"
+  },
+  "scripts": {
+    "build": "webpack"
+  }
+}
